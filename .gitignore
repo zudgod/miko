@@ -3,3 +3,6 @@ __pycache__/
 build/
 dist/
 *.exe
+settings.json
+assets/ui/tiles/
+_test.py
